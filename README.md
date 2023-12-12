@@ -44,6 +44,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidpelaez%2Fcal.com.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidpelaez%2Fcal.com?ref=badge_large)
+
 ## About the Project
 
 <img width="100%" alt="booking-screen" src="https://github.com/calcom/cal.com/assets/8019099/407e727e-ff19-4ca4-bcae-049dca05cf02">
@@ -367,6 +370,7 @@ Cal.com, Inc. does not provide official support for Docker, but we will accept f
 ### Railway
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/cal)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidpelaez%2Fcal.com.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidpelaez%2Fcal.com?ref=badge_shield)
 
 You can deploy Cal.com on [Railway](https://railway.app) using the button above. The team at Railway also have a [detailed blog post](https://blog.railway.app/p/calendso) on deploying Cal.com on their platform.
 
